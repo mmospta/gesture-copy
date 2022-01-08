@@ -13,6 +13,7 @@
 		8D7C80DE27899C9900F6AF8A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D7C80DC27899C9900F6AF8A /* Main.storyboard */; };
 		8D7C80E027899C9A00F6AF8A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D7C80DF27899C9A00F6AF8A /* Assets.xcassets */; };
 		8D7C80E327899C9A00F6AF8A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D7C80E127899C9A00F6AF8A /* LaunchScreen.storyboard */; };
+		8D7C80EB2789C6C700F6AF8A /* SampleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7C80EA2789C6C700F6AF8A /* SampleCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8D7C80DF27899C9A00F6AF8A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D7C80E227899C9A00F6AF8A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D7C80E427899C9A00F6AF8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D7C80EA2789C6C700F6AF8A /* SampleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				8D7C80D827899C9900F6AF8A /* SceneDelegate.swift */,
 				8D7C80DA27899C9900F6AF8A /* ViewController.swift */,
 				8D7C80DC27899C9900F6AF8A /* Main.storyboard */,
+				8D7C80EA2789C6C700F6AF8A /* SampleCollectionViewCell.swift */,
 				8D7C80DF27899C9A00F6AF8A /* Assets.xcassets */,
 				8D7C80E127899C9A00F6AF8A /* LaunchScreen.storyboard */,
 				8D7C80E427899C9A00F6AF8A /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				8D7C80DB27899C9900F6AF8A /* ViewController.swift in Sources */,
 				8D7C80D727899C9900F6AF8A /* AppDelegate.swift in Sources */,
+				8D7C80EB2789C6C700F6AF8A /* SampleCollectionViewCell.swift in Sources */,
 				8D7C80D927899C9900F6AF8A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
